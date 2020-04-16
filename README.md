@@ -5,7 +5,7 @@
 Create a chess board using HTML5, CSS3 and Vanilla Javascript, where if you click on any of the blocks it should highlight its diagonals.
 
 #### How to Run the files :
-* Firstly download the files from https://github.com/PrachiGitBase/FrontEndExercises link .
+* Firstly download the files from https://github.com/PrachiGitBase/FrontEndExercises.git link .
 * Run the html file.
 
 #### Result:
